@@ -1,1 +1,1 @@
-# DZ-1.2.3-API-CI-Postman-Echo
+[![Build status](https://ci.appveyor.com/api/projects/status/65free5q22b29n9t?svg=true)](https://ci.appveyor.com/project/Kitsune785/dz-1-2-3-api-ci-postman-echo)
